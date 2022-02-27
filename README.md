@@ -1,7 +1,7 @@
 # Higher And HigherPrivacy Policy
 The developer of RinazGames created this app as an ad-supported app. This application is provided free of charge and is intended to be used as is. This privacy policy is used to inform you about the collection, use and disclosure of personal information if anyone chooses to use this Service. The developer of RinazGames does not collect user information, but the application uses third-party advertising (revenue generating) libraries that may collect and share personal information with third parties.
 
-Links to privacy policies of third-party service providers used in the application.
+Links to privacy policies of third-party service providers used in the application. 
 Google Play Services https://www.google.com/policies/privacy/
 Unity ADS https://unity3d.com/legal/privacy-policy
 
